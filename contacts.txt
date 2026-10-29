@@ -1,0 +1,4 @@
+Jane Doe|9876543210|jane@example.com|123 Baker St, London|Family|1
+Bob Smith|9012345678|bob@example.com|456 Oak Rd, Seattle|Friends|0
+Alice Johnson|9123456789|alice@work.com|789 Pine Ave, Chicago|Work|1
+Charlie Brown|9234567890|charlie@gmail.com|321 Maple Dr, Denver|Other|0
